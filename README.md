@@ -7,7 +7,7 @@
 - Maleesha
 
 ### Version
-0.3.0
+0.4.0
 
 ### License
 Copyright &copy; 2025 DEP13. All Rights Reserved. 
